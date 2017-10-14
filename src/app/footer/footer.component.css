@@ -1,0 +1,17 @@
+
+#galery{
+
+}
+
+#galery ul{
+    list-style: none;
+}
+
+#galery ul li{
+    display: inline-block;
+}
+
+#galery ul li img{
+    width: 80px;
+    height: 80px;
+}
